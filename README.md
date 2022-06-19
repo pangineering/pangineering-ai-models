@@ -25,8 +25,3 @@ A Repo for all my AI models
  
 
 
-
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
